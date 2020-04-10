@@ -1,0 +1,5 @@
+create-react-app app-react
+npm start
+Link de acesso -> localhost:3000
+--------------------------------------------------------------------
+School of Net -> Programação -> Frontend -> Iniciando com Reactjs Atualizacao 2
